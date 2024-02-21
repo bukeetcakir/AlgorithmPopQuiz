@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\buket\GIT\AlgorithmPopQuiz\FindOccurrence\FindOccurrence\bin\Debug\net6.0\FindOccurrence.exe
+C:\Users\user\Desktop\buket\GIT\AlgorithmPopQuiz\FindOccurrence\FindOccurrence\bin\Debug\net6.0\FindOccurrence.deps.json
+C:\Users\user\Desktop\buket\GIT\AlgorithmPopQuiz\FindOccurrence\FindOccurrence\bin\Debug\net6.0\FindOccurrence.runtimeconfig.json
+C:\Users\user\Desktop\buket\GIT\AlgorithmPopQuiz\FindOccurrence\FindOccurrence\bin\Debug\net6.0\FindOccurrence.dll
+C:\Users\user\Desktop\buket\GIT\AlgorithmPopQuiz\FindOccurrence\FindOccurrence\bin\Debug\net6.0\FindOccurrence.pdb
+C:\Users\user\Desktop\buket\GIT\AlgorithmPopQuiz\FindOccurrence\FindOccurrence\obj\Debug\net6.0\FindOccurrence.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\buket\GIT\AlgorithmPopQuiz\FindOccurrence\FindOccurrence\obj\Debug\net6.0\FindOccurrence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\buket\GIT\AlgorithmPopQuiz\FindOccurrence\FindOccurrence\obj\Debug\net6.0\FindOccurrence.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\buket\GIT\AlgorithmPopQuiz\FindOccurrence\FindOccurrence\obj\Debug\net6.0\FindOccurrence.AssemblyInfo.cs
+C:\Users\user\Desktop\buket\GIT\AlgorithmPopQuiz\FindOccurrence\FindOccurrence\obj\Debug\net6.0\FindOccurrence.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\buket\GIT\AlgorithmPopQuiz\FindOccurrence\FindOccurrence\obj\Debug\net6.0\FindOccurrence.dll
+C:\Users\user\Desktop\buket\GIT\AlgorithmPopQuiz\FindOccurrence\FindOccurrence\obj\Debug\net6.0\refint\FindOccurrence.dll
+C:\Users\user\Desktop\buket\GIT\AlgorithmPopQuiz\FindOccurrence\FindOccurrence\obj\Debug\net6.0\FindOccurrence.pdb
+C:\Users\user\Desktop\buket\GIT\AlgorithmPopQuiz\FindOccurrence\FindOccurrence\obj\Debug\net6.0\FindOccurrence.genruntimeconfig.cache
+C:\Users\user\Desktop\buket\GIT\AlgorithmPopQuiz\FindOccurrence\FindOccurrence\obj\Debug\net6.0\ref\FindOccurrence.dll
